@@ -4,7 +4,7 @@
 #
 💼 Experience: 2 years of professional software development experience
 #
-🌐 Portfolio:https://2024-port-website.vercel.app/ 
+🌐 Portfolio: https://2024-port-website.vercel.app/ 
 #
 🔗 LinkedIn: https://linkedin.com/in/juandre-sabbat-14b755237
 #
