@@ -1,6 +1,6 @@
 👋 Hi, I’m Juandre Sabbat (@sabbatj)
 #
-🎓 Currently Pursuing: Bachelor's degree in Information Technology at Richfield, a distinguished private institution.
+🎓 Currently Pursuing: Bachelor's degree in Information Technology at Richfield, a distinguished private institution in South Africa, internationally recognized for its excellence.
 #
 💼 Experience: 2 years of professional software development experience
 #
