@@ -2,7 +2,7 @@
 #
 🎓 Currently Pursuing: Bachelor's degree in Information Technology at Richfield, a distinguished private institution in South Africa, internationally recognized for its excellence.
 #
-💼 Experience: 2 years of professional software development experience
+💼 Experience: 2 years of professional software development experience.
 #
 🌐 Portfolio:
 #
