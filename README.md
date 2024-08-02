@@ -6,7 +6,9 @@
 #
 🌐 Portfolio:
 #
-[![Portfolio Screenshot](https://github.com/user-attachments/assets/204009f4-79ab-401a-9120-920d36a435f0)](https://2024-port-website.vercel.app/)
+[![Portfolio Screenshot](https://github.com/user-attachments/assets/8756ee8f-9bdb-4c52-aea3-0270ff8b6bab)](https://2024-port-website.vercel.app/)
+
+
 
 #
 🔗 LinkedIn: https://linkedin.com/in/juandre-sabbat-14b755237
