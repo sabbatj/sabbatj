@@ -1,6 +1,6 @@
 👋 Hi, I’m Juandre Sabbat.
 #
-💼 Experience: in my 2nd year of professional software development experience. 
+💼 Experience: In my 2nd year of professional software development experience. 
 #
 🌐 Portfolio:
 #
