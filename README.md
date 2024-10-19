@@ -13,5 +13,5 @@
 #
 📧 Email: Juandresabbat92@gmail.com
 #
-🎓 Currently Pursuing: Bachelor's degree in Information Technology at Richfield (online), a  private institution in South Africa, internationally recognized for its excellence.
+🎓 Currently Pursuing: Bachelor's degree in Information Technology at Richfield (online), a  private institution in South Africa, internationally recognized for its excellence.I am expected to graduate in 2026.
  
