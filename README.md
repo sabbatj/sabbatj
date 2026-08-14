@@ -2,4 +2,4 @@
 
 #
 
-[![Portfolio Screenshot](https://github.com/user-attachments/assets/1b4f07e5-f0e1-4ecd-9ddd-fc1f5e57966e)](https://2024-port-website.vercel.app/)
+[![Portfolio Screenshot](images/Screenshot%202026-08-14%20at%2008.44.54.png)](https://2024-port-website.vercel.app/)
