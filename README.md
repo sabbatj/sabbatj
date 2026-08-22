@@ -2,4 +2,4 @@
 
 💻 **My Portfolio** — Explore my personal portfolio, projects, skills, and experience.
 
-[![Portfolio Screenshot](./portfolio.png)](https://2024-port-website.vercel.app/)
+[![Portfolio Screenshot](./Screenshot 2026-08-22 at 10.35.32.png)](https://2024-port-website.vercel.app/)
