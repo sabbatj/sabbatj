@@ -39,7 +39,6 @@
 > **Golden Key Honour Society Member** and Software Engineer with nearly 3 years of full-stack experience building scalable, high-performance web applications. Dedicated to writing clean, maintainable code and collaborating across teams to deliver impactful, user-centric software solutions.
 
 - 📍 **Location:** Cape Town, South Africa
-- 📞 **Phone:** +27 66 022 2317
 - 🎓 **Education:** Bachelor of Science in Information Technology (Richfield College)
 - 🗣️ **Languages:** English, Afrikaans
 - 🏃 **Hobbies:** Running, gym training, and reading
