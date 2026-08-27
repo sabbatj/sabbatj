@@ -26,9 +26,9 @@
 <!-- Tech Stack Icons -->
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=16&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=16&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ts,js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=16" alt="Tech Stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=15&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=15&theme=light" />
+    <img src="https://skillicons.dev/icons?i=js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=15" alt="Tech Stack" />
   </picture>
 </a>
 
