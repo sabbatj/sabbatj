@@ -1,21 +1,25 @@
 <div align="center">
 
-<!-- Animated Header Emoji -->
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="38" height="38" /> Juandre Sabbat
 
-**Software Engineer • B.Sc. IT Candidate • Ex-Professional Athlete**  
-*Building scalable, high-performance web applications & enterprise platforms.*
+**Software Engineer • B.Sc. IT Candidate • Ex-Professional Athlete** *Building scalable, high-performance web applications & enterprise platforms.*
 
 <br />
 
-<!-- Animated Typing Effect -->
 <a href="https://2024-port-website.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=Full-Stack+Software+Engineer;Golden+Key+Honour+Society+Member;AWS+%26+Cisco+Certified;Ex-Junior+Professional+Rugby+Player" alt="Typing SVG" />
 </a>
 
 <br /><br />
 
-<!-- Quick Links / Contact Badges -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF66&center=true&vCenter=true&width=450&lines=🌙+Dark+Mode+Active" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=008037&center=true&vCenter=true&width=450&lines=☀️+Light+Mode+Active" />
+  <img alt="Theme Status" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF66&center=true&vCenter=true&width=450&lines=Full-Stack+Software+Engineer" />
+</picture>
+
+<br /><br />
+
 <a href="https://2024-port-website.vercel.app/">
   <img src="https://img.shields.io/badge/PORTFOLIO-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=00FF66&labelColor=000000&color=00FF66" alt="Portfolio" />
 </a>
@@ -31,7 +35,13 @@
 
 <br /><br />
 
-[![Portfolio Screenshot](./Screenshot%202026-08-24%20at%2013.03.29.png)](https://2024-port-website.vercel.app/)
+<a href="https://2024-port-website.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Screenshot%202026-08-24%20at%2013.03.29.png" />
+    <source media="(prefers-color-scheme: light)" srcset="./Screenshot%202026-08-24%20at%2013.03.29.png" />
+    <img src="./Screenshot%202026-08-24%20at%2013.03.29.png" alt="Portfolio Screenshot" />
+  </picture>
+</a>
 
 </div>
 
@@ -72,9 +82,12 @@
 
 <br />
 
-<!-- Skill Matrix Icons -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,js,cs,java,py,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=8" alt="Visual Skills Row" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,cs,java,py,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=8&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,cs,java,py,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=8&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,cs,java,py,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=8" alt="Visual Skills Row" />
+  </picture>
 </a>
 
 </div>
@@ -94,11 +107,6 @@
 
 ## 🏉 Leadership Background
 
-> **Ex-Junior Professional Rugby Player** — *Free State Cheetahs Rugby Union (2018 – 2020)*  
-> Built elite high-pressure execution, discipline, and leadership principles in a professional team sports ecosystem.
+> **Ex-Junior Professional Rugby Player** — *Free State Cheetahs Rugby Union (2018 – 2020)* > Built elite high-pressure execution, discipline, and leadership principles in a professional team sports ecosystem.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-db03d300-a4e6-11eb-832c-c77d867fe0e6.gif" width="100%" />
-
-<div align="center">
-  <sub>Designed & Developed by <b>Juandre Sabbat</b> • Cape Town, South Africa</sub>
-</div>
