@@ -36,13 +36,13 @@
 
 ### 🚀 About Me
 
-> **Golden Key Honour Society Member** and Software Engineer with nearly 3 years of full-stack experience building scalable, high-performance web applications[cite: 2]. Dedicated to writing clean, maintainable code and collaborating across teams to deliver impactful, user-centric software solutions[cite: 2].
+> **Golden Key Honour Society Member** and Software Engineer with nearly 3 years of full-stack experience building scalable, high-performance web applications. Dedicated to writing clean, maintainable code and collaborating across teams to deliver impactful, user-centric software solutions.
 
-- 📍 **Location:** Cape Town, South Africa[cite: 2]
-- 📞 **Phone:** +27 66 022 2317[cite: 2]
-- 🎓 **Education:** Bachelor of Science in Information Technology (Richfield College)[cite: 2]
-- 🗣️ **Languages:** English, Afrikaans[cite: 2]
-- 🏃 **Hobbies:** Running, gym training, and reading[cite: 2]
+- 📍 **Location:** Cape Town, South Africa
+- 📞 **Phone:** +27 66 022 2317
+- 🎓 **Education:** Bachelor of Science in Information Technology (Richfield College)
+- 🗣️ **Languages:** English, Afrikaans
+- 🏃 **Hobbies:** Running, gym training, and reading
 
 ---
 
@@ -52,11 +52,11 @@
 
 | Domain | Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | `TypeScript` `JavaScript` `C#` `Java` `Python` `PHP` `HTML5` `CSS3`[cite: 2] |
-| **Frontend Frameworks** | `React.js` `Next.js` `React Native` `Angular` `Redux` `Tailwind CSS`[cite: 2] |
-| **Backend & Databases** | `Node.js` `PostgreSQL` `MongoDB` `SQL` `RESTful APIs`[cite: 2] |
-| **Cloud & DevOps** | `AWS (Lambda, DynamoDB, API Gateway)` `Docker` `GitHub / Git` `Cloud Platforms` `Server & Database Deployment`[cite: 2] |
-| **Professional Skills** | `Problem-Solving` `Cross-Functional Collaboration` `Time Management` `Prototyping` `Adaptability`[cite: 2] |
+| **Programming Languages** | `TypeScript` `JavaScript` `C#` `Java` `Python` `PHP` `HTML5` `CSS3` |
+| **Frontend Frameworks** | `React.js` `Next.js` `React Native` `Angular` `Redux` `Tailwind CSS` |
+| **Backend & Databases** | `Node.js` `PostgreSQL` `MongoDB` `SQL` `RESTful APIs` |
+| **Cloud & DevOps** | `AWS (Lambda, DynamoDB, API Gateway)` `Docker` `GitHub / Git` `Cloud Platforms` `Server & Database Deployment` |
+| **Professional Skills** | `Problem-Solving` `Cross-Functional Collaboration` `Time Management` `Prototyping` `Adaptability` |
 
 </div>
 
@@ -68,51 +68,51 @@
   <tr>
     <td width="50%">
       <h3>🏥 Junior Full Stack Developer</h3>
-      <p><b>Smit, Moolman, Leeb & Associates</b> • <i>Cape Town (Nov 2025 – Jul 2026)</i>[cite: 2]</p>
-      <p><b>Project:</b> <a href="https://ptrack.sto-casemanagement.com/#/login">PTrack – Healthcare Case Management System</a>[cite: 2]</p>
+      <p><b>Smit, Moolman, Leeb & Associates</b> • <i>Cape Town (Nov 2025 – Jul 2026)</i></p>
+      <p><b>Project:</b> <a href="https://ptrack.sto-casemanagement.com/#/login">PTrack – Healthcare Case Management System</a></p>
       <ul>
-        <li>Contributed to the development and maintenance of an internal healthcare case management system supporting patient tracking and clinical workflows[cite: 2].</li>
-        <li>Implemented patient admission tracking and a doctor scheduling calendar to improve record management and appointment efficiency[cite: 2].</li>
-        <li>Supported database updates, testing, and mobile responsiveness improvements across devices[cite: 2].</li>
-        <li>Assisted with AWS MFA onboarding to strengthen security and access control[cite: 2].</li>
+        <li>Contributed to the development and maintenance of an internal healthcare case management system supporting patient tracking and clinical workflows.</li>
+        <li>Implemented patient admission tracking and a doctor scheduling calendar to improve record management and appointment efficiency.</li>
+        <li>Supported database updates, testing, and mobile responsiveness improvements across devices.</li>
+        <li>Assisted with AWS MFA onboarding to strengthen security and access control.</li>
       </ul>
-      <p><code>Angular</code> <code>TypeScript</code> <code>Node.js</code> <code>AWS</code> <code>GitHub Actions</code>[cite: 2]</p>
+      <p><code>Angular</code> <code>TypeScript</code> <code>Node.js</code> <code>AWS</code> <code>GitHub Actions</code></p>
     </td>
     <td width="50%">
       <h3>💳 Junior Full Stack Engineer</h3>
-      <p><b>Simply Anvil</b> • <i>Johannesburg (Feb 2025 – Oct 2025)</i>[cite: 2]</p>
-      <p><b>Project:</b> <a href="https://eezi.io/">Eezi – Enterprise E-Invoicing Platform</a>[cite: 2]</p>
+      <p><b>Simply Anvil</b> • <i>Johannesburg (Feb 2025 – Oct 2025)</i></p>
+      <p><b>Project:</b> <a href="https://eezi.io/">Eezi – Enterprise E-Invoicing Platform</a></p>
       <ul>
-        <li>Worked on e-invoicing software managing digital invoices and VAT compliance across Europe, the Middle East, and Africa[cite: 2].</li>
-        <li>Developed backend features, validations, and database structures to improve system reliability and data accuracy[cite: 2].</li>
-        <li>Integrated external APIs, including RapidAPI and government compliance systems, for secure data exchange[cite: 2].</li>
-        <li>Created and maintained custom npm packages to support regional business requirements[cite: 2].</li>
+        <li>Worked on e-invoicing software managing digital invoices and VAT compliance across Europe, the Middle East, and Africa.</li>
+        <li>Developed backend features, validations, and database structures to improve system reliability and data accuracy.</li>
+        <li>Integrated external APIs, including RapidAPI and government compliance systems, for secure data exchange.</li>
+        <li>Created and maintained custom npm packages to support regional business requirements.</li>
       </ul>
-      <p><code>Node.js</code> <code>TypeScript</code> <code>REST APIs</code> <code>RapidAPI</code> <code>npm</code>[cite: 2]</p>
+      <p><code>Node.js</code> <code>TypeScript</code> <code>REST APIs</code> <code>RapidAPI</code> <code>npm</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3>🌐 Full Stack Developer</h3>
-      <p><b>Xencode</b> • <i>(May 2023 – Sep 2024)</i>[cite: 2]</p>
-      <p><b>Projects:</b> <a href="https://www.xencode.co.za/">Xencode Company Website Redesign</a> | <a href="https://www.djflavainternational.com/">DJ Flava Website Enhancement</a>[cite: 2]</p>
+      <p><b>Xencode</b> • <i>(May 2023 – Sep 2024)</i></p>
+      <p><b>Projects:</b> <a href="https://www.xencode.co.za/">Xencode Company Website Redesign</a> | <a href="https://www.djflavainternational.com/">DJ Flava Website Enhancement</a></p>
       <ul>
-        <li>Led the frontend redesign using React.js, TypeScript, and Tailwind CSS, later migrating the architecture to Next.js to enhance SSR performance and SEO[cite: 2].</li>
-        <li>Mentored an intern developer, promoting clean code and best practices[cite: 2].</li>
-        <li>Implemented modern UI enhancements, animations, WhatsApp integration, and dropdown image navigation[cite: 2].</li>
+        <li>Led the frontend redesign using React.js, TypeScript, and Tailwind CSS, later migrating the architecture to Next.js to enhance SSR performance and SEO.</li>
+        <li>Mentored an intern developer, promoting clean code and best practices.</li>
+        <li>Implemented modern UI enhancements, animations, WhatsApp integration, and dropdown image navigation.</li>
       </ul>
-      <p><code>React.js</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code>[cite: 2]</p>
+      <p><code>React.js</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></p>
     </td>
     <td width="50%">
       <h3>🖥️ Front-End Developer</h3>
-      <p><b>DnB Solutions</b> • <i>Paarl (May 2022 – Jun 2022)</i>[cite: 2]</p>
-      <p><b>Live Link:</b> <a href="https://www.northerngautengorchidsociety.com/">Northern Gauteng Orchid Society</a>[cite: 2]</p>
+      <p><b>DnB Solutions</b> • <i>Paarl (May 2022 – Jun 2022)</i></p>
+      <p><b>Live Link:</b> <a href="https://www.northerngautengorchidsociety.com/">Northern Gauteng Orchid Society</a></p>
       <ul>
-        <li>Revamped the contact page to be fully responsive across mobile and desktop devices, improving usability and accessibility[cite: 2].</li>
-        <li>Implemented form validation and verification to improve data accuracy and reduce invalid submissions[cite: 2].</li>
-        <li>Optimized frontend layout for better responsiveness and consistency across devices[cite: 2].</li>
+        <li>Revamped the contact page to be fully responsive across mobile and desktop devices, improving usability and accessibility.</li>
+        <li>Implemented form validation and verification to improve data accuracy and reduce invalid submissions.</li>
+        <li>Optimized frontend layout for better responsiveness and consistency across devices.</li>
       </ul>
-      <p><code>PHP</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code>[cite: 2]</p>
+      <p><code>PHP</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
     </td>
   </tr>
 </table>
@@ -125,11 +125,11 @@
 <summary><b>🏆 Certifications & Training</b></summary>
 <br />
 
-- ☁️ **AWS Serverless & Cloud Fundamentals** — *Amazon Web Services (May 2026)*[cite: 2]
-- 🔒 **Networking & Cybersecurity Basics** — *Cisco Networking Academy (May 2026)*[cite: 2]
-- 🎓 **McKinsey Forward Program Graduate** — *McKinsey Academy (Jun 2026)*[cite: 2]
-- 💻 **Full Stack Software Development Certificate** — *IBM Corporation (Aug 2023)*[cite: 2]
-- ☁️ **Oracle Cloud Infrastructure Foundations Associate Certificate** — *Oracle Corporation (Aug 2023)*[cite: 2]
+- ☁️ **AWS Serverless & Cloud Fundamentals** — *Amazon Web Services (May 2026)*
+- 🔒 **Networking & Cybersecurity Basics** — *Cisco Networking Academy (May 2026)*
+- 🎓 **McKinsey Forward Program Graduate** — *McKinsey Academy (Jun 2026)*
+- 💻 **Full Stack Software Development Certificate** — *IBM Corporation (Aug 2023)*
+- ☁️ **Oracle Cloud Infrastructure Foundations Associate Certificate** — *Oracle Corporation (Aug 2023)*
 
 </details>
 
@@ -137,14 +137,14 @@
 <summary><b>🎓 Education Details</b></summary>
 <br />
 
-**Bachelor of Science in Information Technology** — *Richfield College (2026)*[cite: 2]
-- **Status:** In Progress (Semester 2 - Final Semester) | Distance Learning[cite: 2]
-- **Honours:** Golden Key International Honour Society (Top 15%)[cite: 2]
-- **Core Focus Areas:** Cyber Security, Artificial Intelligence (AI), Cloud Computing, and Software Engineering[cite: 2]
+**Bachelor of Science in Information Technology** — *Richfield College (2026)*
+- **Status:** In Progress (Semester 2 - Final Semester) | Distance Learning
+- **Honours:** Golden Key International Honour Society (Top 15%)
+- **Core Focus Areas:** Cyber Security, Artificial Intelligence (AI), Cloud Computing, and Software Engineering
 - **Technical Progression:** 
-  - *2024:* JavaScript, HTML, CSS[cite: 2]
-  - *2025:* Python, PHP, SQL[cite: 2]
-  - *2026:* C#, Java, Mobile Development, Docker[cite: 2]
+  - *2024:* JavaScript, HTML, CSS
+  - *2025:* Python, PHP, SQL
+  - *2026:* C#, Java, Mobile Development, Docker
 
 </details>
 
@@ -152,10 +152,10 @@
 
 ## 🏉 Leadership & Athletic Background
 
-> **Junior Professional Rugby Player** — *Free State Cheetahs Rugby Union, Bloemfontein (Feb 2018 – Dec 2020)*[cite: 2]  
-> - Competed at the junior professional level while collaborating in high-performance team environments[cite: 2].
-> - Developed strong skills in leadership, high-pressure execution, discipline, and adaptability[cite: 2].
-> - Participated in community outreach and youth development initiatives[cite: 2].
+> **Junior Professional Rugby Player** — *Free State Cheetahs Rugby Union, Bloemfontein (Feb 2018 – Dec 2020)*  
+> - Competed at the junior professional level while collaborating in high-performance team environments.
+> - Developed strong skills in leadership, high-pressure execution, discipline, and adaptability.
+> - Participated in community outreach and youth development initiatives.
 
 ---
 
