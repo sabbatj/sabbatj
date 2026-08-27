@@ -21,17 +21,6 @@
 <!-- Minimal Action Links -->
 [**Portfolio**](https://2024-port-website.vercel.app/) &nbsp;•&nbsp; [**LinkedIn**](http://www.linkedin.com/in/juandre-sabbat-14b755237/) &nbsp;•&nbsp; [**GitHub**](https://github.com/sabbatj) &nbsp;•&nbsp; [**Email**](mailto:juandresabbat92@gmail.com)
 
-<br /><br />
-
-<!-- Tech Stack Icons -->
-<a href="https://skillicons.dev">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=15&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=15&theme=light" />
-    <img src="https://skillicons.dev/icons?i=js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=15" alt="Tech Stack" />
-  </picture>
-</a>
-
 </div>
 
 ---
@@ -43,6 +32,13 @@
 * 🎓 **Education:** B.Sc. Information Technology (Final Year) — Richfield College
 * 📍 **Location:** Cape Town, South Africa
 * 🗣️ **Languages:** English, Afrikaans
+
+---
+
+### 🛠️ Core Tech Stack
+
+* **Languages & Frameworks:** JavaScript, C#, Java, Python, PHP, React.js, Next.js, Angular, Tailwind CSS
+* **Backend & Cloud:** Node.js, PostgreSQL, MongoDB, AWS, Docker, Git
 
 ---
 
