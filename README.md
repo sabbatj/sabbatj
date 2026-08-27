@@ -2,54 +2,60 @@
 
 # Juandre Sabbat
 
-**Full-Stack Software Engineer**  
+**Full-Stack Software Engineer • B.Sc. IT Candidate**  
 *Cape Town, South Africa*
 
 <br />
 
-<!-- Minimalist Theme-Aware Typing Subtitle -->
+<!-- Animated Subtitle -->
 <a href="https://2024-port-website.vercel.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=00FF66&center=true&vCenter=true&width=550&lines=Engineering+Scalable+Web+%26+Enterprise+Systems;B.Sc.+IT+Candidate+%E2%80%A2+Golden+Key+Member;AWS+%26+Cisco+Certified+Developer;Ex-Junior+Professional+Rugby+Player" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=008037&center=true&vCenter=true&width=550&lines=Engineering+Scalable+Web+%26+Enterprise+Systems;B.Sc.+IT+Candidate+%E2%80%A2+Golden+Key+Member;AWS+%26+Cisco+Certified+Developer;Ex-Junior+Professional+Rugby+Player" />
-    <img alt="Juandre Sabbat" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=00FF66&center=true&vCenter=true&width=550&lines=Full-Stack+Software+Engineer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=00FF66&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Golden+Key+Honour+Society+Member;AWS+%26+Cisco+Certified+Developer;Building+Scalable+Web+%26+Enterprise+Systems" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=008037&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Golden+Key+Honour+Society+Member;AWS+%26+Cisco+Certified+Developer;Building+Scalable+Web+%26+Enterprise+Systems" />
+    <img alt="Juandre Sabbat" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=00FF66&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer" />
   </picture>
 </a>
 
 <br /><br />
 
-<!-- Sleek Minimal Action Links -->
-[**Live Portfolio**](https://2024-port-website.vercel.app/) &nbsp;•&nbsp; [**LinkedIn**](http://www.linkedin.com/in/juandre-sabbat-14b755237/) &nbsp;•&nbsp; [**GitHub**](https://github.com/sabbatj) &nbsp;•&nbsp; [**Email**](mailto:juandresabbat92@gmail.com)
+<!-- Minimal Action Links -->
+[**Portfolio**](https://2024-port-website.vercel.app/) &nbsp;•&nbsp; [**LinkedIn**](http://www.linkedin.com/in/juandre-sabbat-14b755237/) &nbsp;•&nbsp; [**GitHub**](https://github.com/sabbatj) &nbsp;•&nbsp; [**Email**](mailto:juandresabbat92@gmail.com)
 
 <br /><br />
 
-<!-- Single-Row Adaptive Tech Stack Icons -->
+<!-- Tech Stack Icons -->
 <a href="https://skillicons.dev">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,cs,java,py,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=15&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,cs,java,py,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=15&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ts,js,cs,java,py,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=15" alt="Tech Stack" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=16&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=16&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts,js,cs,java,py,php,react,nextjs,angular,tailwind,nodejs,postgres,mongodb,aws,docker,github&perline=16" alt="Tech Stack" />
   </picture>
 </a>
 
 </div>
 
-<br />
-
 ---
 
 ### 💡 About Me
 
-Full-stack engineer with 3+ years of commercial experience building high-performance web applications, fintech e-invoicing platforms, and healthcare management software. Strong focus on clean code, modular architecture, and intuitive UI/UX.
+> **Golden Key Honour Society Member** and Full-Stack Software Engineer with commercial experience building scalable web applications, fintech e-invoicing systems, and healthcare platforms. Focused on writing clean code, modular architecture, and delivering intuitive UI/UX.
 
-* **Education:** B.Sc. Information Technology (Final Year) — Richfield College
-* **Recognition:** Golden Key International Honour Society
-* **Leadership:** Ex-Junior Professional Rugby Player (*Free State Cheetahs, 2018–2020*)
+* 🎓 **Education:** B.Sc. Information Technology (Final Year) — Richfield College
+* 📍 **Location:** Cape Town, South Africa
+* 🗣️ **Languages:** English, Afrikaans
 
 ---
 
-### 🛡️ Verified Certifications
+### 📜 Certifications & Achievements
 
-```text
-☁️ AWS Serverless & Cloud Fundamentals    🌐 Cisco Networking & Security
-🎓 McKinsey Forward Program Graduate     💻 IBM Full-Stack Development
+* ☁️ **AWS Serverless & Cloud Fundamentals** — *Amazon Web Services*
+* 🌐 **Networking & Cybersecurity Basics** — *Cisco Networking Academy*
+* 🎓 **McKinsey Forward Program Graduate** — *McKinsey Academy*
+* 💻 **Full Stack Software Development Certificate** — *IBM*
+* ☁️ **Oracle Cloud Infrastructure Foundations Associate** — *Oracle*
+
+---
+
+<div align="center">
+  <sub>Designed & engineered by Juandre Sabbat</sub>
+</div>
