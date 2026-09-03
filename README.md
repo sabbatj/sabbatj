@@ -8,7 +8,7 @@ Cape Town, South Africa
 [**GitHub**](https://github.com/sabbatj)  • 
 [**Email**](mailto:juandresabbat92@gmail.com)
 
-**1,410 contributions in the last year**
+** More than 1,400 contributions in the last year**
 
 ---
 
