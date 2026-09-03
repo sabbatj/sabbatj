@@ -1,15 +1,7 @@
-<div align="center">
-
 # Juandre Sabbat
 
 **Full-Stack Software Engineer • B.Sc. IT Candidate**
 Cape Town, South Africa
-
-<a href="https://2024-port-website.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=16&pause=1200&color=00FF66&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Golden+Key+Honour+Society+Member;AWS+%26+Cisco+Certified;Building+Scalable+Web+Applications" alt="Juandre Sabbat" />
-</a>
-
-<br />
 
 [**Portfolio**](https://2024-port-website.vercel.app/)  • 
 [**LinkedIn**](http://www.linkedin.com/in/juandre-sabbat-14b755237/)  • 
@@ -17,8 +9,6 @@ Cape Town, South Africa
 [**Email**](mailto:juandresabbat92@gmail.com)
 
 **1,410 contributions in the last year**
-
-</div>
 
 ---
 
@@ -33,18 +23,6 @@ Full-Stack Software Engineer with commercial experience developing **web applica
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages:** JavaScript • C# • Java • Python • PHP
-
-**Frontend:** React.js • Next.js • Angular • Tailwind CSS
-
-**Backend & Database:** Node.js • PostgreSQL • MongoDB
-
-**Cloud & DevOps:** AWS • Docker • Git
-
----
-
 ## 📜 Certifications & Achievements
 
 * ☁️ **AWS Serverless & Cloud Fundamentals** — Amazon Web Services
@@ -56,10 +34,6 @@ Full-Stack Software Engineer with commercial experience developing **web applica
 ---
 
 <div align="center">
-
-**1,410 contributions • Full-Stack Development • Cloud • Enterprise Systems**
-
-<sub>Designed & engineered by Juandre Sabbat</sub>
-
+  <sub>Designed & engineered by Juandre Sabbat</sub>
 </div>
 
