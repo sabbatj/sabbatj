@@ -8,7 +8,7 @@ Cape Town, South Africa
 [**GitHub**](https://github.com/sabbatj)  • 
 [**Email**](mailto:juandresabbat92@gmail.com)
 
-** More than 1,400 contributions in the last year**
+**More than 1,400 contributions in the last year**
 
 ---
 
@@ -36,4 +36,5 @@ Full-Stack Software Engineer with commercial experience developing **web applica
 <div align="center">
   <sub>Designed & engineered by Juandre Sabbat</sub>
 </div>
+
 
