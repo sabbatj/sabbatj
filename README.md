@@ -16,7 +16,7 @@ Cape Town, South Africa
 
 Full-Stack Software Engineer with commercial experience developing **web applications, fintech e-invoicing systems, and healthcare platforms**. Focused on clean code, modular architecture, scalable systems, and intuitive user experiences.
 
-* 🎓 **B.Sc. Information Technology** — Richfield College *(Final Year)*
+* 🎓 **B.Sc. Information Technology** — Richfield College *(Final Year - Final Semester)*
 * 🏆 **Golden Key Honour Society Member**
 * 📍 **Cape Town, South Africa**
 * 🗣️ **English • Afrikaans**
