@@ -1,11 +1,10 @@
-# Juandre Sabbat
+<p align="center">
+  <img src="./assets/banner.svg" alt="Juandre Sabbat" width="100%" />
+</p>
 
-**Full-Stack Software Engineer • B.Sc. IT Candidate**
-Cape Town, South Africa
-
-[**Portfolio**](https://2024-port-website.vercel.app/)  • 
-[**LinkedIn**](http://www.linkedin.com/in/juandre-sabbat-14b755237/)  • 
-[**GitHub**](https://github.com/sabbatj)  • 
+[**Portfolio**](https://2024-port-website.vercel.app/)  • 
+[**LinkedIn**](http://www.linkedin.com/in/juandre-sabbat-14b755237/)  • 
+[**GitHub**](https://github.com/sabbatj)  • 
 [**Email**](mailto:juandresabbat92@gmail.com)
 
 **More than 1000 contributions in the last year**
@@ -36,5 +35,4 @@ Full-Stack Software Engineer with commercial experience developing **web applica
 <div align="center">
   <sub>Designed & engineered by Juandre Sabbat</sub>
 </div>
-
 
