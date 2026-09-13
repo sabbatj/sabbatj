@@ -19,7 +19,7 @@
 
 > Full-Stack Software Engineer with commercial experience developing **web applications, fintech e-invoicing systems, and healthcare platforms** — focused on clean code, modular architecture, scalable systems, and intuitive user experiences.
 
-<table>
+<table align="center">
 <tr>
 <td>🎓</td><td><strong>B.Sc. Information Technology</strong> — Richfield College <em>(Final Year · Final Semester)</em></td>
 </tr>
@@ -38,7 +38,7 @@
 
 ## 📜 Certifications & Achievements
 
-<table>
+<table align="center">
 <tr><th align="left">Credential</th><th align="left">Issuer</th></tr>
 <tr><td>☁️ AWS Serverless & Cloud Fundamentals</td><td>Amazon Web Services</td></tr>
 <tr><td>🌐 Networking & Cybersecurity Basics</td><td>Cisco Networking Academy</td></tr>
