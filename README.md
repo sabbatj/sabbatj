@@ -1,37 +1,56 @@
 <p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTAwMCAzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9InNreSIgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMGIwZTE0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFhMWYyYiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KCiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9ImJlYW0iIGN4PSI1MCUiIGN5PSIwJSIgcj0iODAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2RmZTlmZiIgc3RvcC1vcGFjaXR5PSIwLjUiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSI2MCUiIHN0b3AtY29sb3I9IiM5ZmI3ZmYiIHN0b3Atb3BhY2l0eT0iMC4xNiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM5ZmI3ZmYiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KCiAgICA8cmFkaWFsR3JhZGllbnQgaWQ9Imdsb3ciIGN4PSI1MCUiIGN5PSI1MCUiIHI9IjUwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMyZWE2ZmYiIHN0b3Atb3BhY2l0eT0iMC4zNSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyZWE2ZmYiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KCiAgICA8Y2xpcFBhdGggaWQ9ImJlYW1DbGlwIj4KICAgICAgPHBvbHlnb24gcG9pbnRzPSI1MDAsMCAzODAsMzAwIDYyMCwzMDAiLz4KICAgIDwvY2xpcFBhdGg+CgogICAgPHN0eWxlPgogICAgICAuYmVhbSB7IGFuaW1hdGlvbjogZmxpY2tlciAzLjZzIGVhc2UtaW4tb3V0IGluZmluaXRlOyB9CiAgICAgIEBrZXlmcmFtZXMgZmxpY2tlciB7CiAgICAgICAgMCUsIDEwMCUgeyBvcGFjaXR5OiAwLjg1OyB9CiAgICAgICAgNDUlIHsgb3BhY2l0eTogMTsgfQogICAgICAgIDUwJSB7IG9wYWNpdHk6IDAuNTU7IH0KICAgICAgICA1NSUgeyBvcGFjaXR5OiAxOyB9CiAgICAgIH0KCiAgICAgIC53aW4geyBhbmltYXRpb246IHR3aW5rbGUgNXMgZWFzZS1pbi1vdXQgaW5maW5pdGU7IH0KICAgICAgQGtleWZyYW1lcyB0d2lua2xlIHsKICAgICAgICAwJSwgNDAlLCAxMDAlIHsgb3BhY2l0eTogMC44OyB9CiAgICAgICAgMjAlIHsgb3BhY2l0eTogMC4yNTsgfQogICAgICB9CgogICAgICAubmFtZSB7IGZvbnQtZmFtaWx5OiAnU2Vnb2UgVUknLCBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC13ZWlnaHQ6IDcwMDsgZmlsbDogI2VhZjFmZjsgfQogICAgICAucm9sZSB7IGZvbnQtZmFtaWx5OiAnU2Vnb2UgVUknLCBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC13ZWlnaHQ6IDQwMDsgZmlsbDogIzlmYjdmZjsgfQogICAgICAubG9jICB7IGZvbnQtZmFtaWx5OiAnU2Vnb2UgVUknLCBBcmlhbCwgc2Fucy1zZXJpZjsgZm9udC13ZWlnaHQ6IDQwMDsgZmlsbDogIzZmN2M5NDsgfQogICAgPC9zdHlsZT4KICA8L2RlZnM+CgogIDwhLS0gc2t5IC0tPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0idXJsKCNza3kpIi8+CgogIDwhLS0gc29mdCBjbG91ZHMgLS0+CiAgPGcgZmlsbD0iIzIzMjgzOCIgb3BhY2l0eT0iMC41Ij4KICAgIDxlbGxpcHNlIGN4PSIxMjAiIGN5PSI1NSIgcng9IjkwIiByeT0iMjAiLz4KICAgIDxlbGxpcHNlIGN4PSI4NzAiIGN5PSI0MCIgcng9IjExMCIgcnk9IjI0Ii8+CiAgICA8ZWxsaXBzZSBjeD0iOTUwIiBjeT0iODAiIHJ4PSI3MCIgcnk9IjE2Ii8+CiAgPC9nPgoKICA8IS0tIGFtYmllbnQgc3BvdGxpZ2h0IGJlYW0gLS0+CiAgPGcgY2xhc3M9ImJlYW0iIGNsaXAtcGF0aD0idXJsKCNiZWFtQ2xpcCkiPgogICAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEwMDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2JlYW0pIi8+CiAgPC9nPgoKICA8IS0tIHNvZnQgZ2xvdyBiZWhpbmQgdGhlIHRleHQgLS0+CiAgPGVsbGlwc2UgY3g9IjUwMCIgY3k9IjE1MCIgcng9IjI2MCIgcnk9IjE0MCIgZmlsbD0idXJsKCNnbG93KSIvPgoKICA8IS0tIGZ1bGwgY2l0eSBza3lsaW5lOiBiYWNrIGxheWVyLCBlZGdlIHRvIGVkZ2UgLS0+CiAgPGcgZmlsbD0iIzE2MWIyNiI+CiAgICA8cmVjdCB4PSIwIiB5PSIyMDAiIHdpZHRoPSI1NSIgaGVpZ2h0PSIxMDAiLz4KICAgIDxyZWN0IHg9IjU1IiB5PSIxNzAiIHdpZHRoPSI0NSIgaGVpZ2h0PSIxMzAiLz4KICAgIDxyZWN0IHg9IjEwMCIgeT0iMTg1IiB3aWR0aD0iNjAiIGhlaWdodD0iMTE1Ii8+CiAgICA8cmVjdCB4PSIxNjAiIHk9IjE1MCIgd2lkdGg9IjUwIiBoZWlnaHQ9IjE1MCIvPgogICAgPHJlY3QgeD0iMjEwIiB5PSIxOTUiIHdpZHRoPSI1NSIgaGVpZ2h0PSIxMDUiLz4KICAgIDxyZWN0IHg9IjI2NSIgeT0iMTY1IiB3aWR0aD0iNDAiIGhlaWdodD0iMTM1Ii8+CiAgICA8cmVjdCB4PSIzMDUiIHk9IjIwNSIgd2lkdGg9IjUwIiBoZWlnaHQ9Ijk1Ii8+CiAgICA8cmVjdCB4PSIzNTUiIHk9IjE4MCIgd2lkdGg9IjQ1IiBoZWlnaHQ9IjEyMCIvPgogICAgPHJlY3QgeD0iNjAwIiB5PSIxOTAiIHdpZHRoPSI1MCIgaGVpZ2h0PSIxMTAiLz4KICAgIDxyZWN0IHg9IjY1MCIgeT0iMTYwIiB3aWR0aD0iNDUiIGhlaWdodD0iMTQwIi8+CiAgICA8cmVjdCB4PSI2OTUiIHk9IjIwMCIgd2lkdGg9IjU1IiBoZWlnaHQ9IjEwMCIvPgogICAgPHJlY3QgeD0iNzUwIiB5PSIxNDUiIHdpZHRoPSI1MCIgaGVpZ2h0PSIxNTUiLz4KICAgIDxyZWN0IHg9IjgwMCIgeT0iMTg1IiB3aWR0aD0iNDUiIGhlaWdodD0iMTE1Ii8+CiAgICA8cmVjdCB4PSI4NDUiIHk9IjE2NSIgd2lkdGg9IjU1IiBoZWlnaHQ9IjEzNSIvPgogICAgPHJlY3QgeD0iOTAwIiB5PSIxOTUiIHdpZHRoPSI0NSIgaGVpZ2h0PSIxMDUiLz4KICAgIDxyZWN0IHg9Ijk0NSIgeT0iMTUwIiB3aWR0aD0iNTUiIGhlaWdodD0iMTUwIi8+CiAgPC9nPgoKICA8IS0tIGZ1bGwgY2l0eSBza3lsaW5lOiBmcm9udCBsYXllciwgZWRnZSB0byBlZGdlIC0tPgogIDxnIGZpbGw9IiMwZTEyMWEiPgogICAgPHJlY3QgeD0iMCIgeT0iMjQwIiB3aWR0aD0iMzUiIGhlaWdodD0iNjAiLz4KICAgIDxyZWN0IHg9IjM1IiB5PSIyMjAiIHdpZHRoPSI0NSIgaGVpZ2h0PSI4MCIvPgogICAgPHJlY3QgeD0iODAiIHk9IjI0NSIgd2lkdGg9IjMwIiBoZWlnaHQ9IjU1Ii8+CiAgICA8cmVjdCB4PSIxMTAiIHk9IjIxNSIgd2lkdGg9IjU1IiBoZWlnaHQ9Ijg1Ii8+CiAgICA8cmVjdCB4PSIxNjUiIHk9IjIzNSIgd2lkdGg9IjQwIiBoZWlnaHQ9IjY1Ii8+CiAgICA8cmVjdCB4PSIyMDUiIHk9IjIwNSIgd2lkdGg9IjUwIiBoZWlnaHQ9Ijk1Ii8+CiAgICA8cmVjdCB4PSIyNTUiIHk9IjI0MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjYwIi8+CiAgICA8cmVjdCB4PSIyOTAiIHk9IjIyMCIgd2lkdGg9IjQ1IiBoZWlnaHQ9IjgwIi8+CiAgICA8cmVjdCB4PSIzMzUiIHk9IjI1MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjUwIi8+CiAgICA8cmVjdCB4PSIzNjUiIHk9IjIyNSIgd2lkdGg9IjQwIiBoZWlnaHQ9Ijc1Ii8+CiAgICA8cmVjdCB4PSI1OTUiIHk9IjIzNSIgd2lkdGg9IjM1IiBoZWlnaHQ9IjY1Ii8+CiAgICA8cmVjdCB4PSI2MzAiIHk9IjIxNSIgd2lkdGg9IjUwIiBoZWlnaHQ9Ijg1Ii8+CiAgICA8cmVjdCB4PSI2ODAiIHk9IjI0NSIgd2lkdGg9IjMwIiBoZWlnaHQ9IjU1Ii8+CiAgICA8cmVjdCB4PSI3MTAiIHk9IjIxMCIgd2lkdGg9IjU1IiBoZWlnaHQ9IjkwIi8+CiAgICA8cmVjdCB4PSI3NjUiIHk9IjI0MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjYwIi8+CiAgICA8cmVjdCB4PSI4MDAiIHk9IjIyMCIgd2lkdGg9IjQ1IiBoZWlnaHQ9IjgwIi8+CiAgICA8cmVjdCB4PSI4NDUiIHk9IjI1MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjUwIi8+CiAgICA8cmVjdCB4PSI4NzUiIHk9IjIyNSIgd2lkdGg9IjUwIiBoZWlnaHQ9Ijc1Ii8+CiAgICA8cmVjdCB4PSI5MjUiIHk9IjI0MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjYwIi8+CiAgICA8cmVjdCB4PSI5NjAiIHk9IjIxNSIgd2lkdGg9IjQwIiBoZWlnaHQ9Ijg1Ii8+CiAgPC9nPgoKICA8IS0tIHdpbmRvd3MgLS0+CiAgPGcgZmlsbD0iI2ZmZDc3YSI+CiAgICA8cmVjdCBjbGFzcz0id2luIiB4PSIxNSIgeT0iMjU1IiB3aWR0aD0iNSIgaGVpZ2h0PSI3Ii8+CiAgICA8cmVjdCBjbGFzcz0id2luIiB4PSI1MCIgeT0iMjM1IiB3aWR0aD0iNSIgaGVpZ2h0PSI3Ii8+CiAgICA8cmVjdCBjbGFzcz0id2luIiB4PSIxMjAiIHk9IjIzMCIgd2lkdGg9IjUiIGhlaWdodD0iNyIvPgogICAgPHJlY3QgY2xhc3M9IndpbiIgeD0iMTgwIiB5PSIyNTAiIHdpZHRoPSI1IiBoZWlnaHQ9IjciLz4KICAgIDxyZWN0IGNsYXNzPSJ3aW4iIHg9IjIyNSIgeT0iMjIwIiB3aWR0aD0iNSIgaGVpZ2h0PSI3Ii8+CiAgICA8cmVjdCBjbGFzcz0id2luIiB4PSIzMDAiIHk9IjIzNSIgd2lkdGg9IjUiIGhlaWdodD0iNyIvPgogICAgPHJlY3QgY2xhc3M9IndpbiIgeD0iMzc4IiB5PSIyNDAiIHdpZHRoPSI1IiBoZWlnaHQ9IjciLz4KICAgIDxyZWN0IGNsYXNzPSJ3aW4iIHg9IjYxMCIgeT0iMjUwIiB3aWR0aD0iNSIgaGVpZ2h0PSI3Ii8+CiAgICA8cmVjdCBjbGFzcz0id2luIiB4PSI2NDUiIHk9IjIzMCIgd2lkdGg9IjUiIGhlaWdodD0iNyIvPgogICAgPHJlY3QgY2xhc3M9IndpbiIgeD0iNzI1IiB5PSIyMjUiIHdpZHRoPSI1IiBoZWlnaHQ9IjciLz4KICAgIDxyZWN0IGNsYXNzPSJ3aW4iIHg9Ijc4MCIgeT0iMjU1IiB3aWR0aD0iNSIgaGVpZ2h0PSI3Ii8+CiAgICA8cmVjdCBjbGFzcz0id2luIiB4PSI4MTUiIHk9IjIzNSIgd2lkdGg9IjUiIGhlaWdodD0iNyIvPgogICAgPHJlY3QgY2xhc3M9IndpbiIgeD0iODkwIiB5PSIyNDAiIHdpZHRoPSI1IiBoZWlnaHQ9IjciLz4KICAgIDxyZWN0IGNsYXNzPSJ3aW4iIHg9Ijk3MCIgeT0iMjMwIiB3aWR0aD0iNSIgaGVpZ2h0PSI3Ii8+CiAgPC9nPgoKICA8IS0tIGdyb3VuZCBsaW5lIC0tPgogIDxyZWN0IHg9IjAiIHk9IjI5OCIgd2lkdGg9IjEwMDAiIGhlaWdodD0iMiIgZmlsbD0iIzJhMzA0MCIvPgoKICA8IS0tIG92ZXJsYWlkIGRldGFpbHMgLS0+CiAgPGcgdGV4dC1hbmNob3I9Im1pZGRsZSI+CiAgICA8dGV4dCB4PSI1MDAiIHk9IjEzMCIgY2xhc3M9Im5hbWUiIGZvbnQtc2l6ZT0iMzYiPkp1YW5kcmUgU2FiYmF0PC90ZXh0PgogICAgPHRleHQgeD0iNTAwIiB5PSIxNTgiIGNsYXNzPSJyb2xlIiBmb250LXNpemU9IjE2Ij5GdWxsLVN0YWNrIFNvZnR3YXJlIEVuZ2luZWVyIOKAoiBCLlNjLiBJVCBDYW5kaWRhdGU8L3RleHQ+CiAgICA8dGV4dCB4PSI1MDAiIHk9IjE4MCIgY2xhc3M9ImxvYyIgZm9udC1zaXplPSIxMyI+Q2FwZSBUb3duLCBTb3V0aCBBZnJpY2E8L3RleHQ+CiAgPC9nPgo8L3N2Zz4K" alt="Juandre Sabbat" width="100%" />
+  <a href="https://2024-port-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0b0e14?style=for-the-badge&logo=vercel&logoColor=2ea6ff" /></a>
+  <a href="http://www.linkedin.com/in/juandre-sabbat-14b755237/"><img src="https://img.shields.io/badge/LinkedIn-0b0e14?style=for-the-badge&logo=linkedin&logoColor=2ea6ff" /></a>
+  <a href="https://github.com/sabbatj"><img src="https://img.shields.io/badge/GitHub-0b0e14?style=for-the-badge&logo=github&logoColor=2ea6ff" /></a>
+  <a href="mailto:juandresabbat92@gmail.com"><img src="https://img.shields.io/badge/Email-0b0e14?style=for-the-badge&logo=gmail&logoColor=2ea6ff" /></a>
 </p>
 
-[**Portfolio**](https://2024-port-website.vercel.app/)  • 
-[**LinkedIn**](http://www.linkedin.com/in/juandre-sabbat-14b755237/)  • 
-[**GitHub**](https://github.com/sabbatj)  • 
-[**Email**](mailto:juandresabbat92@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Contributions-1000%2B%20last%20year-2ea6ff?style=flat-square&labelColor=0b0e14" />
+</p>
 
-**More than 1000 contributions in the last year**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&duration=3000&pause=1000&color=9FB7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;B.Sc.+IT+Candidate;Cape+Town%2C+South+Africa" alt="Typing SVG" />
+</p>
 
----
+<br>
 
 ## 💡 About
 
-Full-Stack Software Engineer with commercial experience developing **web applications, fintech e-invoicing systems, and healthcare platforms**. Focused on clean code, modular architecture, scalable systems, and intuitive user experiences.
+> Full-Stack Software Engineer with commercial experience developing **web applications, fintech e-invoicing systems, and healthcare platforms** — focused on clean code, modular architecture, scalable systems, and intuitive user experiences.
 
-* 🎓 **B.Sc. Information Technology** — Richfield College *(Final Year - Final Semester)*
-* 🏆 **Golden Key Honour Society Member**
-* 📍 **Cape Town, South Africa**
-* 🗣️ **English • Afrikaans**
+<table>
+<tr>
+<td>🎓</td><td><strong>B.Sc. Information Technology</strong> — Richfield College <em>(Final Year · Final Semester)</em></td>
+</tr>
+<tr>
+<td>🏆</td><td><strong>Golden Key Honour Society Member</strong></td>
+</tr>
+<tr>
+<td>📍</td><td><strong>Cape Town, South Africa</strong></td>
+</tr>
+<tr>
+<td>🗣️</td><td><strong>English</strong> · <strong>Afrikaans</strong></td>
+</tr>
+</table>
 
----
+<br>
 
 ## 📜 Certifications & Achievements
 
-* ☁️ **AWS Serverless & Cloud Fundamentals** — Amazon Web Services
-* 🌐 **Networking & Cybersecurity Basics** — Cisco Networking Academy
-* 🎓 **McKinsey Forward Program Graduate** — McKinsey Academy
-* 💻 **Full Stack Software Development Certificate** — IBM
-* ☁️ **Oracle Cloud Infrastructure Foundations Associate** — Oracle
+<table>
+<tr><th align="left">Credential</th><th align="left">Issuer</th></tr>
+<tr><td>☁️ AWS Serverless & Cloud Fundamentals</td><td>Amazon Web Services</td></tr>
+<tr><td>🌐 Networking & Cybersecurity Basics</td><td>Cisco Networking Academy</td></tr>
+<tr><td>🎓 McKinsey Forward Program Graduate</td><td>McKinsey Academy</td></tr>
+<tr><td>💻 Full Stack Software Development Certificate</td><td>IBM</td></tr>
+<tr><td>☁️ Oracle Cloud Infrastructure Foundations Associate</td><td>Oracle</td></tr>
+</table>
+
+<br>
 
 ---
 
-<div align="center">
-  <sub>Designed & engineered by Juandre Sabbat</sub>
-</div>
+<p align="center">
+  <sub>✦ Designed & engineered by <strong>Juandre Sabbat</strong> ✦</sub>
+</p>
