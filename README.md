@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Contributions-1000%2B%20last%20year-2ea6ff?style=flat-square&labelColor=0b0e14" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&size=16&duration=3000&pause=1000&color=9FB7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;B.Sc.+IT+Candidate;Cape+Town%2C+South+Africa" alt="Typing SVG" />
 </p>
 
