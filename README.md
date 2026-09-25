@@ -29,24 +29,7 @@
 <td>🗣️</td><td><strong>English</strong> · <strong>Afrikaans</strong></td>
 </tr>
 </table>
-
-<br>
-
-## 📜 Certifications & Achievements
-
-<table align="center">
-<tr><th align="left">Credential</th><th align="left">Issuer</th></tr>
-<tr><td>☁️ AWS Serverless & Cloud Fundamentals</td><td>Amazon Web Services</td></tr>
-<tr><td>🌐 Networking & Cybersecurity Basics</td><td>Cisco Networking Academy</td></tr>
-<tr><td>🎓 McKinsey Forward Program Graduate</td><td>McKinsey Academy</td></tr>
-<tr><td>💻 Full Stack Software Development Certificate</td><td>IBM</td></tr>
-<tr><td>☁️ Oracle Cloud Infrastructure Foundations Associate</td><td>Oracle</td></tr>
-</table>
-
-<br>
-
----
-
+-----
 <p align="center">
   <sub>✦ Designed & engineered by <strong>Juandre Sabbat</strong> ✦</sub>
 </p>
