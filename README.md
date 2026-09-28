@@ -11,7 +11,7 @@
 
 <br>
  <p align="center">
-## 💡 About
+💡 About
 </p>
 
 > Full-Stack Software Engineer with commercial experience developing **web applications, fintech e-invoicing systems, and healthcare platforms**.Focused on clean code, modular architecture, scalable systems, and intuitive user experiences.
