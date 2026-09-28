@@ -29,7 +29,6 @@
 <td>🗣️</td><td><strong>English</strong> · <strong>Afrikaans</strong></td>
 </tr>
 </table>
------
 <p align="center">
   <sub>✦ Designed & engineered by <strong>Juandre Sabbat</strong> ✦</sub>
 </p>
