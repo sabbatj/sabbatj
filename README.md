@@ -13,7 +13,7 @@
 
 ## 💡 About
 
-> Full-Stack Software Engineer with commercial experience developing **web applications, fintech e-invoicing systems, and healthcare platforms** — focused on clean code, modular architecture, scalable systems, and intuitive user experiences.
+> Full-Stack Software Engineer with commercial experience developing **web applications, fintech e-invoicing systems, and healthcare platforms** Focused on clean code, modular architecture, scalable systems, and intuitive user experiences.
 
 <table align="center">
 <tr>
