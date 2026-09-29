@@ -3,12 +3,6 @@
 # Juandre Sabbat
 
 ### Full-Stack Software Engineer
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=780&lines=Building+production+software+across+FinTech%2C+HealthTech+and+digital+platforms.;Frontend+%C2%B7+Backend+%C2%B7+APIs+%C2%B7+Cloud;Clean+code+%C2%B7+Scalable+systems+%C2%B7+Practical+solutions"
-  alt="Engineering focus"
-/>
-
 <br/>
 <br/>
 
